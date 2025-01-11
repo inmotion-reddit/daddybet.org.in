@@ -29,8 +29,8 @@ Disallow:/
 User-agent:ClaudeBot
 Disallow:/
 
-Sitemap: https://daddybet.win/sitemap.xml
-Sitemap: https://daddybet.win/images_sitemap.xml
+Sitemap: https://daddybet.org.in/sitemap.xml
+Sitemap: https://daddybet.org.in/images_sitemap.xml
 
 User-agent:Cohere-ai
 Disallow:/
